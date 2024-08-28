@@ -1,0 +1,15 @@
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\bin\Debug\net8.0\Simple Banking Application.exe
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\bin\Debug\net8.0\Simple Banking Application.deps.json
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\bin\Debug\net8.0\Simple Banking Application.runtimeconfig.json
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\bin\Debug\net8.0\Simple Banking Application.dll
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\bin\Debug\net8.0\Simple Banking Application.pdb
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.AssemblyInfoInputs.cache
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.AssemblyInfo.cs
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.csproj.CoreCompileInputs.cache
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.sourcelink.json
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.dll
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\refint\Simple Banking Application.dll
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.pdb
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\Simple Banking Application.genruntimeconfig.cache
+C:\Users\kaq12\Desktop\C#\Projekty\SimpleBankingApplication\Simple Banking Application\Simple Banking Application\obj\Debug\net8.0\ref\Simple Banking Application.dll

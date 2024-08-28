@@ -21,7 +21,14 @@ namespace Simple_Banking_Application
 
         public void Deposit(decimal amount)
         {
-            Balance += amount;
+            if (amount < 0)
+            {
+                Console.WriteLine("Amount cannot be negative");
+            }
+            else
+            {
+                Balance += amount;
+            }
         }
 
         public void Withdraw(decimal amount)
@@ -39,6 +46,11 @@ namespace Simple_Banking_Application
         public void GetBalance()
         {
             Console.WriteLine(Balance);
+        }
+
+        public override string ToString()
+        {
+            return $"{AccountNumber} {AccountHolder} {Balance}$";
         }
     }
 }

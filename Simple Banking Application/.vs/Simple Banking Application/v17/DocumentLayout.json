@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kaq12\\Desktop\\C#\\Projekty\\SimpleBankingApplication\\Simple Banking Application\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE78F0F8-2785-498B-9212-CA0F916834AA}|Simple Banking Application\\Simple Banking Application.csproj|c:\\users\\kaq12\\desktop\\c#\\projekty\\simplebankingapplication\\simple banking application\\simple banking application\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE78F0F8-2785-498B-9212-CA0F916834AA}|Simple Banking Application\\Simple Banking Application.csproj|solutionrelative:simple banking application\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE78F0F8-2785-498B-9212-CA0F916834AA}|Simple Banking Application\\Simple Banking Application.csproj|c:\\users\\kaq12\\desktop\\c#\\projekty\\simplebankingapplication\\simple banking application\\simple banking application\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE78F0F8-2785-498B-9212-CA0F916834AA}|Simple Banking Application\\Simple Banking Application.csproj|solutionrelative:simple banking application\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,25 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\kaq12\\Desktop\\C#\\Projekty\\SimpleBankingApplication\\Simple Banking Application\\Simple Banking Application\\Bank.cs",
+              "RelativeDocumentMoniker": "Simple Banking Application\\Bank.cs",
+              "ToolTip": "C:\\Users\\kaq12\\Desktop\\C#\\Projekty\\SimpleBankingApplication\\Simple Banking Application\\Simple Banking Application\\Bank.cs",
+              "RelativeToolTip": "Simple Banking Application\\Bank.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:39:53.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\kaq12\\Desktop\\C#\\Projekty\\SimpleBankingApplication\\Simple Banking Application\\Simple Banking Application\\Account.cs",
               "RelativeDocumentMoniker": "Simple Banking Application\\Account.cs",
               "ToolTip": "C:\\Users\\kaq12\\Desktop\\C#\\Projekty\\SimpleBankingApplication\\Simple Banking Application\\Simple Banking Application\\Account.cs",
               "RelativeToolTip": "Simple Banking Application\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T11:29:44.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaq12\\Desktop\\C#\\Projekty\\SimpleBankingApplication\\Simple Banking Application\\Simple Banking Application\\Program.cs",
               "RelativeDocumentMoniker": "Simple Banking Application\\Program.cs",
               "ToolTip": "C:\\Users\\kaq12\\Desktop\\C#\\Projekty\\SimpleBankingApplication\\Simple Banking Application\\Simple Banking Application\\Program.cs",
               "RelativeToolTip": "Simple Banking Application\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T11:25:29.708Z",
               "EditorCaption": ""
